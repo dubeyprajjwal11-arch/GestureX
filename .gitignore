@@ -1,4 +1,7 @@
-﻿.venv/
+﻿.idea/
+*.task
+.venv/
 __pycache__/
 *.pyc
 .env
+.gitignore.py
